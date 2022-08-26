@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TodoApp-in-React/static/css/main.3f6e33d8.css",
-    "main.js": "/TodoApp-in-React/static/js/main.9c342252.js",
-    "static/js/787.df5fe353.chunk.js": "/TodoApp-in-React/static/js/787.df5fe353.chunk.js",
-    "index.html": "/TodoApp-in-React/index.html",
-    "main.3f6e33d8.css.map": "/TodoApp-in-React/static/css/main.3f6e33d8.css.map",
-    "main.9c342252.js.map": "/TodoApp-in-React/static/js/main.9c342252.js.map",
-    "787.df5fe353.chunk.js.map": "/TodoApp-in-React/static/js/787.df5fe353.chunk.js.map"
+    "main.css": "/weatherApp-in-React/static/css/main.bbdc7512.css",
+    "main.js": "/weatherApp-in-React/static/js/main.13c077f6.js",
+    "static/js/787.df5fe353.chunk.js": "/weatherApp-in-React/static/js/787.df5fe353.chunk.js",
+    "index.html": "/weatherApp-in-React/index.html",
+    "main.bbdc7512.css.map": "/weatherApp-in-React/static/css/main.bbdc7512.css.map",
+    "main.13c077f6.js.map": "/weatherApp-in-React/static/js/main.13c077f6.js.map",
+    "787.df5fe353.chunk.js.map": "/weatherApp-in-React/static/js/787.df5fe353.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f6e33d8.css",
-    "static/js/main.9c342252.js"
+    "static/css/main.bbdc7512.css",
+    "static/js/main.13c077f6.js"
   ]
 }
