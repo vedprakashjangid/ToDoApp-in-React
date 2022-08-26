@@ -1,10 +1,12 @@
 
 // import { useEffect,useState} from 'react';
 import Todo from "./Todo"
+import Weather from "./weatherProject/Weather"
 // import './App.css';
 
 function App() {
-   return <Todo/>
+   return <Weather/>
+   // <Todo/>
 //  const [users,setUsers]=useState([]);
 
 //  const getApi= async ()=>{
